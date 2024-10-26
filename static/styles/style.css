@@ -1,0 +1,16 @@
+p {
+ font-size: 30px;
+ text-align: center;
+ background-color:blueviolet;
+}
+.container {
+background-color: aquamarine;
+text-align: center;
+display: inline-block;
+}
+.main {
+    text-align: center;
+}
+.container>img {
+    width: 300px;
+}
